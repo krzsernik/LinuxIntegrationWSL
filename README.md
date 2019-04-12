@@ -3,7 +3,7 @@
 ![Effect](https://i.imgur.com/DkP1cK5.png)
 ***
 ### Windows:
-1. Install Ubuntu/Debian WSL from Microsoft Store
+1. Install Linux from Microsoft Store
 
 	![Linux distributions](https://i.imgur.com/wIEhRCu.png)
 2. Install [VcXsrv](https://sourceforge.net/projects/vcxsrv/).
