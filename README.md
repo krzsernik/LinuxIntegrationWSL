@@ -60,7 +60,7 @@
     sudo apt install lxde screen
     ```
 4. Edit `/etc/xdg/lxsession/LXDE/autostart`:
-	- Remove two lines: `@lxpanel ...` and `@pcmanfm ...`
+	- Empty the file (or leave screensaver if you want)
 	
 	![autostart](https://i.imgur.com/mTUhSwR.png)
 	- Save file
